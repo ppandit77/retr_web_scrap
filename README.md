@@ -34,9 +34,9 @@ To access the data, you need to copy your session cookie from retr.app. Here’s
    ```
 
 ## Step 3: Install Required Packages
-Install the required Python packages using pip:
+Install the required Python packages using pip and the provided requirements.txt file:
 ```sh
-pip install requests
+pip install -r requirements.txt
 ```
 
 ## Step 4: Run the Script
