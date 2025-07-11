@@ -1,0 +1,633 @@
+BranchName,Company,CompanyState,BranchNMLS,LoanOfficerID,NMLS,FirstName,LastName,FullName,WorkEmail,OfficePhone,PersonalEmail,CellPhone,IsManager
+"NFM Lending, LLC, Turnersville, NJ Branch",,NJ,463153.0,142428,95005,Jeremiah,Cook,Jeremiah Cook,jecook@nfmlending.com,215-837-0387,,215-837-0387,Yes
+"NFM Lending, LLC, Turnersville, NJ Branch",,NJ,463153.0,292521,181145,William,Lex,William Lex,,856-491-4555,,856-371-3474,No
+"NFM Lending, LLC, Turnersville, NJ Branch",,NJ,463153.0,201889,144284,Joseph,Tulino,Joseph Tulino,jtulino@nfmlending.com,856-517-4619,,215-669-9975,No
+"NFM Lending, LLC, Turnersville, NJ Branch",,NJ,463153.0,188617,119502,John,Fitzpatrick,John Fitzpatrick,jfitzpatrick@nfmlending.com,609-330-5189,,,No
+"NFM Lending, LLC, Turnersville, NJ Branch",,NJ,463153.0,574499,944539,Mary Kate,Hak,Mary Kate Hak,mhak@nfmlending.com,856-542-5456,,,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,143582,146582,Bryan,Raiford,Bryan Raiford,braiford@nfmlending.com,443-336-4811,,443-336-4811,Yes
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,142843,146561,Craig,Kam,Craig Kam,ckam@nfmlending.com,443-917-2782,,301-452-3429,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,136948,181912,Van,Papadopoulos,Van Papadopoulos,van.papadopoulos@dkmortgage.com,301-956-9760,vp298@yahoo.com,301-956-9760,Yes
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,31922,146613,Nicholas,Mautino,Nicholas Mautino,nmautino@nfmlending.com,240-417-8181,nicholasmautino@yahoo.com,240-417-8181,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,137187,235731,Charles,Wilson,Charles Wilson,cwilson@nfmlending.com,571-250-0113,,410-963-5992,Yes
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,144534,146560,Lee,Blumberg,Lee Blumberg,lblumberg@nfmlending.com,240-731-4314,,240-731-4314,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,142940,1027898,Jennifer,Nguyen,Jennifer Nguyen,jnguyen@nfmlending.com,301-371-2950,,301-442-8785,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,145571,146631,Charles,Moore,Charles Moore,cmoore@nfmlending.com,301-509-9596,,301-509-9596,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,1161767,2520032,Jacqueline,Nguyen,Jacqueline Nguyen,,,,,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,143306,194645,Ernest,Spriggs,Ernest Spriggs,espriggs@nfmlending.com,202-236-1609,,202-236-1609,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,1279402,2645438,Ryan,Wallace,Ryan Wallace,,240-599-0991,,,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,148781,432245,Tyra,Yiare,Tyra Yiare,,202-255-8204,,202-255-8204,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,376087,146562,Curtis,Myers,Curtis Myers,cmyers@nfmlending.com,443-917-2796,,,No
+"NFM Lending, LLC, Bethesda, MD Branch",,MD,856600.0,1325242,1296087,Robert,Houchens,Robert Houchens,,,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,146399,327235,Jane,Floyd,Jane Floyd,jfloyd@nfmlending.com,813-961-3900,,813-758-8334,Yes
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,146081,327209,Kenneth,Ynes,Kenneth Ynes,kynes@nfmlending.com,813-961-3900,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,149288,336855,Luis,Torres De La Tejera,Luis Torres De La Tejera,ltorres@nfmlending.com,813-961-3900,,813-892-0533,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,171273,1458122,April,Penrod,April Penrod,,561-844-4755,,561-262-1963,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,625186,1217456,Kenneth,Endicott,Kenneth Endicott,,,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,157680,1620229,Dillon,Floyd,Dillon Floyd,,813-961-3900,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,159062,1217692,Kellen,Floyd,Kellen Floyd,kfloyd@nfmlending.com,813-961-3900,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,146794,322480,Kameron,Garms,Kameron Garms,kgarms@nfmlending.com,813-758-2004,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,990502,2301487,Patrick,Ward,Patrick Ward,,,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,174649,326097,John,Norsworthy,John Norsworthy,,,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1165034.0,388928,326097,John,Norsworthy,John Norsworthy,,,,,No
+"NFM Lending, LLC, Tampa, FL Branch",,FL,1167223.0,146399,327235,Jane,Floyd,Jane Floyd,jfloyd@nfmlending.com,813-961-3900,,813-758-8334,Yes
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,147335,2272466,Miguel,Palacios Morataya,Miguel Palacios Morataya,mpalacio@nfmlending.com,919-757-3650,,,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,213146,219225,Gustavo,Pared,Gustavo Pared,gpared@nfmlending.com,703-891-4501,,202-425-7190,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,144182,204195,Mauricio,Becerra,Mauricio Becerra,mbecerra@nfmlending.com,703-891-4501,,,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,194599,219963,Juan,Echevarria,Juan Echevarria,jechevarria@nfmlending.com,703-891-4501,,703-362-7445,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,208442,246613,Alejandro,Mejia Solano,Alejandro Mejia Solano,amejia@nfmlending.com,703-891-4501,,,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,259759,225575,Jose,Gamboa,Jose Gamboa,jgamboa@nfmlending.com,703-891-4505,,,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,260446,2114646,Victor,Valdez,Victor Valdez,vvaldez@nfmlending.com,,,,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,260728,225055,Carlos,Villa,Carlos Villa,cvilla@nfmlending.com,703-891-4501,,,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,353296,912315,Terri,Perry Tyson,Terri Perry Tyson,ttyson@nfmlending.com,703-891-4501,,,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,145690,223959,Lori,Pick,Lori Pick,lpick@monarch1893.com,703-307-9758,,727-510-6972,No
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,370195,50154,Juan,Jimenez,Juan Jimenez,,,,,Yes
+"NFM Lending, LLC, Vienna, VA Branch",,VA,1181409.0,208802,1916520,Karen,Juarez,Karen Juarez,,571-298-7072,,,No
+"NFM Lending, LLC, Garner, NC Branch",,NC,1182201.0,281485,92794,Chuck,Payne,Chuck Payne,cpayne@nfmlending.com,919-523-7210,,919-523-7210,Yes
+"NFM Lending, LLC, Garner, NC Branch",,NC,1182201.0,197951,1892416,Olga,Abarca Zacatula,Olga Abarca Zacatula,,919-757-9832,,,No
+"NFM Lending, LLC, Garner, NC Branch",,NC,1182201.0,284421,117464,Monica,Edwards,Monica Edwards,,330-651-5295,,,No
+"NFM Lending, LLC, Garner, NC Branch",,NC,1182201.0,281725,1011343,Edith,Peacock,Edith Peacock,mpeacock@nfmlending.com,919-602-1090,,919-602-1090,No
+"NFM Lending, LLC, East Rutherford, NJ Branch",,NJ,1184292.0,212795,46563,Carlos,Serrano,Carlos Serrano,cserrano@nfmlending.com,201-355-3325,,,Yes
+"NFM Lending, LLC, East Rutherford, NJ Branch",,NJ,1184292.0,192041,218670,Fernando,Pineros Rincon,Fernando Pineros Rincon,fpineros@nfmlending.com,201-355-5851,,973-653-6227,No
+"NFM Lending, LLC, Palm Harbor, FL Branch",,FL,1308745.0,146513,150917,Joann,Rooney,Joann Rooney,jrooney@nfmlending.com,727-938-9007,,727-515-5123,Yes
+"NFM Lending, LLC, Palm Harbor, FL Branch",,FL,1308745.0,111952,917155,David,Ferrell,David Ferrell,dferrell@nfmlending.com,888-214-7083,,443-517-9546,No
+"NFM Lending, LLC, Palm Harbor, FL Branch",,FL,1308745.0,159202,1106838,Carlos,Ferbeyre,Carlos Ferbeyre,cferbeyre@radiusgrp.com,786-972-1409,,,No
+"NFM Lending, LLC, Palm Harbor, FL Branch",,FL,1308745.0,768241,1658211,Brittany,Millard,Brittany Millard,,,,,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,1418618.0,209343,1034510,Jesse,Perrone,Jesse Perrone,jperrone@nfmlending.com,434-470-6833,,434-470-6833,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,1418618.0,209241,204399,Gregory,Cowart,Gregory Cowart,gcowart@nfmlending.com,804-306-6463,,804-306-6463,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,1418618.0,353622,2227755,Paul,Pritchett,Paul Pritchett,mpritchett@nfmlending.com,804-337-0300,,,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,1418618.0,353336,1928522,Mary-Margaret,Wells,Mary-Margaret Wells,mwells@nfmlending.com,804-399-2332,,,Yes
+"NFM Lending, LLC, Richmond, VA Branch",,VA,1418618.0,1059589,2438369,Joshua,Lockwood,Joshua Lockwood,,,,,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,1418618.0,1195361,2631564,Nathan,Conway,Nathan Conway,,,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,38721,905636,Kelsey,Marquardt,Kelsey Marquardt,kmarquardt@nfmlending.com,888-233-0092,,602-361-6380,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,37333,1296290,Shane,Staples,Shane Staples,sstaples@nfmlending.com,480-378-3718,,602-859-5592,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,30821,281509,Stephen,Pollard,Stephen Pollard,cpollard@nfmlending.com,214-697-3188,,214-697-3188,Yes
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,42096,1260521,Matthew,Shiner,Matthew Shiner,mshiner@nfmlending.com,480-382-0932,,480-707-8040,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,40210,2026707,Camille,Baldwin,Camille Baldwin,cbaldwin@nfmlending.com,480-378-6906,,480-378-6906,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,155139,1768650,Steven,Rivera,Steven Rivera,srivera@nfmlending.com,407-764-7372,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,36468,1142157,Brian,Burnham,Brian Burnham,bburnham@nfmlending.com,480-206-0229,,480-206-0229,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,152670,270033,Erika,Borrero,Erika Borrero,eborrero@nfmlending.com,,,407-463-6420,Yes
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,38361,887732,Raquel,Wilson,Raquel Wilson,rwilson@nfmlending.com,602-561-0135,cactuscateringbyraquel@gmail.com,602-561-0135,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,39478,189839,Matthew,Primrose,Matthew Primrose,matt.primrose@grarate.com,480-635-2608,,480-635-2608,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,152477,917536,Maria,Paredes,Maria Paredes,mparedes@nfmlending.com,786-506-0026,,786-506-0026,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,37896,796031,Tracy,Marino,Tracy Marino,tmarino@nfmlending.com,650-302-7770,,650-302-7770,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,152820,2057133,Michel,Baez,Michel Baez,mbaez@nfmlending.com,689-500-4575,,407-506-4341,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,37067,1599351,Brandon,Pavlovic,Brandon Pavlovic,bpavlovic@nfmlending.com,480-378-3190,pavlovb@gmail.com,480-452-4162,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,66428,328434,Donald,Belsito,Donald Belsito,nbelsito@nfmlending.com,949-306-6214,nbelsito@yahoo.com,949-306-6214,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,152293,910808,Lynn,Tosi,Lynn Tosi,ltosi@nfmlending.com,689-219-3912,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,42063,951590,Tyler,Barnett,Tyler Barnett,tbarnett@nfmlending.com,480-278-2785,,480-278-2785,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,168774,1800327,Paula,Rosales Diez,Paula Rosales Diez,paula@teweslending.com,407-534-3177,,407-534-3177,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,151992,2020149,Antonio,Malusa Pepe,Antonio Malusa Pepe,antonio.malusa@kbhshomeloans.com,407-550-0420,,407-342-0751,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,161999,1716482,Galo,Paredes,Galo Paredes,gparedes@nfmlending.com,786-200-6520,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,36248,1864895,Stephanie,Sandell,Stephanie Sandell,ssandell@nfmlending.com,480-378-2963,,602-723-9727,Yes
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,99278,447830,Darryl,Ou,Darryl Ou,dou@nfmlending.com,626-297-1477,,626-297-1477,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,44868,1762389,Thomas,Lovejoy,Thomas Lovejoy,tjlovejoy@nfmlending.com,480-378-2632,,480-378-2632,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,45537,1085559,Chelsea,Abbate,Chelsea Abbate,cabbate@nfmlending.com,480-378-3034,,480-239-1457,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,42855,1458313,Ann,Sartin,Ann Sartin,,,annmsartin@gmail.com,602-413-8762,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,343983,224304,Penelope,Bisbee,Penelope Bisbee,,,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,380330,252558,Tonia,Tilmann,Tonia Tilmann,,,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,382372,221731,Ryan,Sandell,Ryan Sandell,,,,480-510-2969,Yes
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,863631,1900584,Danielle,Nappi,Danielle Nappi,dnappi@nfmlending.com,407-288-2783,,407-288-2783,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,940259,2123250,Shaye,Laborde,Shaye Laborde,,,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,1077172,2221823,Kylie,Martin,Kylie Martin,,,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,1144715,2453865,Krystal,Kurtz,Krystal Kurtz,,,,,No
+"NFM Lending, LLC, Tempe, AZ Branch",,AZ,1490627.0,1274710,2649687,Paul,Tremblay,Paul Tremblay,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,118973,173224,Daniel,Sa,Daniel Sa,dsa@nfmlending.com,614-369-4856,,614-226-7345,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,113370,1682169,Andrew,Beigel,Andrew Beigel,abeigel@nfmlending.com,614-362-5482,,,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,190375,1649423,Erik Sebastian,Torsell Starud,Erik Sebastian Torsell Starud,sstarud@nfmlending.com,484-515-4711,,484-515-4711,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,285204,2071353,Ryan,Cvammen,Ryan Cvammen,rcvammen@nfmlending.com,614-369-4855,,614-369-4855,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,186717,2132419,Joseph,Sester,Joseph Sester,jsester@bsmfunding.com,859-468-2190,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,51604,1061894,Michael,Auge,Michael Auge,mauge@nfmlending.com,614-915-0763,,412-996-2813,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,42373,1934853,Diana,Flynn,Diana Flynn,dflynn@nfmlending.com,614-347-3882,,614-560-3871,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,202902,932775,Tabitha,Burton,Tabitha Burton,tburton@nfmlending.com,614-369-4835,,513-256-1972,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,197020,1023121,Chad,Gensler,Chad Gensler,cgensler@nfmlending.com,,chad.gensler@gmail.com,419-350-6011,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,53809,1217387,Ryan,Colopy,Ryan Colopy,rcolopy@nfmlending.com,614-465-3824,,614-465-3824,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,34985,2086997,Richard,Price,Richard Price,rprice@nfmlending.com,,,740-751-8404,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,186009,1516177,Alex,Lubrecht,Alex Lubrecht,alubrecht@nfmlending.com,859-514-7551,,859-801-4847,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,217726,1476301,Ana,Rosas,Ana Rosas,arosas@nfmlending.com,614-584-3896,,614-584-3896,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,241864,1674300,Ashley,Yaeger,Ashley Yaeger,ayaeger@nfmlending.com,513-678-8573,,513-678-8573,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,197428,1733114,Colleen,Doyle,Colleen Doyle,cdoyle@nfmlending.com,567-686-0446,,419-460-1801,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,100448,1520247,Anthony,Evans,Anthony Evans,aevans@nfmlending.com,614-764-1232,,937-776-2766,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,214053,1763596,Nicholas,Workman,Nicholas Workman,nworkman@nfmlending.com,614-670-1168,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,46798,1870472,Arianna,Graves,Arianna Graves,agraves@nfmlending.com,614-629-9064,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,58740,1991303,Kwabena,Awuah,Kwabena Awuah,jeddy.awuah@summitfunding.net,614-975-7878,,614-975-0883,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,195869,1494178,Charles,Holden,Charles Holden,chuck.holden@ruoff.com,614-362-9427,,740-833-5298,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,204891,202739,Christopher,Lewis,Christopher Lewis,rlewis@nfmlending.com,614-360-1518,,614-421-8891,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,19071,844523,Christopher,Mcdaniel,Christopher Mcdaniel,cmcdaniel@nfmlending.com,614-696-5577,,614-696-5577,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,170065,301842,Kristopher,Mccurry,Kristopher Mccurry,kmccurry@nfmlending.com,614-570-9755,hollawoodproductions@yahoo.com,614-570-9755,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,306795,563484,James,Hazley,James Hazley,jhazley@nfmlending.com,614-591-4277,,614-591-4277,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,307642,1672142,Taylor,Rogers,Taylor Rogers,trogers@nfmlending.com,330-612-3646,,678-769-6139,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,213630,1085415,Joseph,Fagan,Joseph Fagan,jfagan@nfmlending.com,937-974-9778,jpatrickfagan@gmail.com,937-974-9778,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,201806,1618459,James,Allbritton,James Allbritton,dallbritton@nfmlending.com,614-396-3027,,614-396-3027,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1026255,2416595,Fran,Olivero,Fran Olivero,folivero@nfmlending.com,614-369-4839,,810-335-1301,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,267089,2241476,Alexander,Forconi,Alexander Forconi,aforconi@nfmlending.com,614-344-4620,,614-344-4620,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1285078,2647310,Austin,Cain,Austin Cain,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,309247,2058853,Ryan,Cochran,Ryan Cochran,rcochran@nfmlending.com,614-369-4860,,614-369-4860,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,23745,2227637,Wil,Hagen,Wil Hagen,wil.hagen@churchillmortgage.com,615-921-3471,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,308726,2378612,Chandler,Levering,Chandler Levering,,859-514-7525,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1278937,2630898,Gavin,Smith,Gavin Smith,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1149600,2465443,Mark,Nelson,Mark Nelson,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1156793,2575913,Amy,Johnson,Amy Johnson,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,10253,1686334,Tyler,Marton,Tyler Marton,,614-591-0485,,937-206-6992,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,66716,2111732,Gavin,Dill,Gavin Dill,gdill@nfmlending.com,614-930-6128,,330-559-3058,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,69401,1686331,Logan,Jones,Logan Jones,,614-907-7798,,740-221-3058,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,104864,2016332,Mackenzie,Floyd,Mackenzie Floyd,mfloyd@nfmlending.com,614-647-4709,,330-705-2753,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,17595,2006038,Thien,Mach,Thien Mach,,614-245-9268,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,21352,1370952,Courtney,Walters,Courtney Walters,,,,937-760-1634,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,51270,2075659,Ethan,Pelagalli,Ethan Pelagalli,,,,440-864-3630,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1172076,2564105,Said,Saleh,Said Saleh,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1077329,2285853,Karen,Esquivel De La Riva,Karen Esquivel De La Riva,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1300282,2543744,Roxanna,Traft,Roxanna Traft,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,455266,562504,Alex,Thompson,Alex Thompson,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,613164,1162880,Jennifer,Borsato,Jennifer Borsato,,219-225-9133,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,626849,1269880,Kelli,Sa,Kelli Sa,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,907098,2019208,Lesley,Beigel,Lesley Beigel,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,912670,2040272,Osgood,Mcmahon,Osgood Mcmahon,,,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,960084,2244992,Conor,Beer,Conor Beer,,614-398-3469,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,1566780.0,1011804,2378607,Samantha,Reynolds,Samantha Reynolds,,859-514-7536,,,No
+"NFM Lending, LLC, Brenham, TX Branch",,TX,1574122.0,335665,221822,Tina,Calloway,Tina Calloway,tcalloway@nfmlending.com,979-421-8422,,979-451-7878,Yes
+"NFM Lending, LLC, Orange, VA Branch",,VA,1602473.0,207003,296029,Blane,Stewart,Blane Stewart,blanesteam@nfmlending.com,540-212-4550,,540-717-6237,Yes
+"NFM Lending, LLC, Orange, VA Branch",,VA,1602473.0,212320,1561889,Anthony,Cellini,Anthony Cellini,acellini@nfmlending.com,434-466-1180,,434-466-1180,Yes
+"NFM Lending, LLC, Orange, VA Branch",,VA,1602473.0,212528,2064405,Benjamin,Heilberg,Benjamin Heilberg,bheilberg@nfmlending.com,434-962-8537,,,No
+"NFM Lending, LLC, Orange, VA Branch",,VA,1602473.0,206838,2064776,Tyler,Rood,Tyler Rood,trood@nfmlending.com,804-617-6830,,,No
+"NFM Lending, LLC, Orange, VA Branch",,VA,1602473.0,211492,1907313,Harrison,Wesson,Harrison Wesson,hwesson@nfmlending.com,434-305-2942,,434-305-2942,No
+"NFM Lending, LLC, Annapolis, MD Branch",,MD,1607612.0,146280,455859,Bradley,Fowler,Bradley Fowler,brad.fowler@nfmlending.com,410-297-7805,,703-254-6658,No
+"NFM Lending, LLC, Annapolis, MD Branch",,MD,1607612.0,143293,476320,Christopher,Grizzell,Christopher Grizzell,cgrizzell@nfmlending.com,410-995-8787,,443-889-6888,Yes
+"NFM Lending, LLC, Annapolis, MD Branch",,MD,1607612.0,144892,184457,Michael,Lynch,Michael Lynch,mlynch@nfmlending.com,888-560-0721,,301-442-6891,No
+"NFM Lending, LLC, Annapolis, MD Branch",,MD,1607612.0,145100,197371,Susana,Rudd,Susana Rudd,srudd@nfmlending.com,410-573-2988,,,No
+"NFM Lending, LLC, Annapolis, MD Branch",,MD,1607612.0,190416,169216,Bart,Rein,Bart Rein,brein@nfmlending.com,877-314-1499,bartrein@comcast.net,410-570-5666,No
+"NFM Lending, LLC, Annapolis, MD Branch",,MD,1607612.0,184584,1525341,Anthony,Leighty,Anthony Leighty,tleighty@nfmlending.com,443-261-2135,,443-623-3882,No
+"NFM Lending, LLC, Annapolis, MD Branch",,MD,1607612.0,929014,2093882,Brendan,Fowler,Brendan Fowler,brendan.fowler@nfmlending.com,443-261-2126,,,No
+"NFM Lending, LLC, Culpeper, VA Branch",,VA,1642939.0,209894,807828,Lori,Kearns,Lori Kearns,bkearns@cbmmortgage.com,540-228-0592,,540-905-0192,Yes
+"NFM Lending, LLC, Culpeper, VA Branch",,VA,1642939.0,261429,854040,Orval,Gent,Orval Gent,bgent@embracehomeloans.com,703-509-5626,,703-509-5626,No
+"NFM Lending, LLC, Frederick, MD Branch",,MD,1776367.0,173851,723269,Jeremy,Poling,Jeremy Poling,jeremypoling@rocketmortgage.com,240-367-9474,,301-676-5506,No
+"NFM Lending, LLC, Frederick, MD Branch",,MD,1776367.0,145101,179208,Jason,Fox,Jason Fox,jfox@nfmlending.com,240-674-3665,,,Yes
+"NFM Lending, LLC, Grove City, OH Branch",,OH,1792579.0,190496,436047,Justus,Sharp,Justus Sharp,jsharp@nfmlending.com,614-369-4838,,614-369-4838,Yes
+"NFM Lending, LLC, Grove City, OH Branch",,OH,1792579.0,306545,1595859,William,Hollis,William Hollis,bhollis@nfmlending.com,614-695-3384,,614-695-3384,No
+"NFM Lending, LLC, Grove City, OH Branch",,OH,1792579.0,311318,2169356,Michelle,Brueggeman,Michelle Brueggeman,mbrueggeman@nfmlending.com,312-270-7422,,312-270-7422,No
+"NFM Lending, LLC, Grove City, OH Branch",,OH,1792579.0,13908,2064752,Katherine,Borawski,Katherine Borawski,kborawski@nfmlending.com,440-478-4325,,,No
+"NFM Lending, LLC, Sarasota, FL Branch",,FL,1800595.0,146324,663828,Robert,Stettler,Robert Stettler,rstettler@nfmlending.com,813-748-1534,,813-748-1534,Yes
+"NFM Lending, LLC, Sarasota, FL Branch",,FL,1800595.0,159942,1639070,Christopher,Mcintosh,Christopher Mcintosh,cmcintosh@nfmlending.com,479-283-2376,,479-283-2376,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,144732,299858,Darran,Anthony,Darran Anthony,,703-725-5404,,703-725-5404,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,145952,2143938,Trent,Riggs,Trent Riggs,triggs@mainstreethl.com,410-490-7061,,410-490-7061,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,169458,1550584,Kaitlyn,Linane,Kaitlyn Linane,,,,703-474-7435,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,144577,389312,Carolyn,Flitcroft,Carolyn Flitcroft,,540-327-2986,,540-327-2986,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,171737,485027,Dwight,Taylor,Dwight Taylor,dwight.taylor@peoplesmortgage.com,540-379-1502,loanhunter1@aol.com,540-379-1502,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,144955,609895,Michael,Farrell,Michael Farrell,mike@mainstreethl.com,571-616-0101,,571-214-6460,Yes
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,142939,659474,Paul,Nagel,Paul Nagel,pnagel@mainstreethl.com,571-616-0251,,703-201-5147,Yes
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,212661,233063,Glen,Bralley,Glen Bralley,glenb@mortgagecorpusa.com,703-898-5982,,703-898-5982,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,136879,659522,Ana,Tolentino,Ana Tolentino,,703-731-7663,,703-731-7663,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,261429,854040,Orval,Gent,Orval Gent,bgent@embracehomeloans.com,703-509-5626,,703-509-5626,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,23848,1754906,Nicholas,Anthony,Nicholas Anthony,nanthony@mainstreethl.com,571-616-0112,,,Yes
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,142533,527599,J,Teitelman,J Teitelman,jdteitelman@firstsavings.com,703-564-1746,,202-604-0843,Yes
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,866024,1909831,Austin,Manno,Austin Manno,amanno@mainstreethl.com,571-616-0107,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,145037,103883,Jeffrey,Douglas,Jeffrey Douglas,jdouglas@mainstreethl.com,703-304-1975,,703-304-1975,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,132101,649501,Kevin,Wamsley,Kevin Wamsley,,,kevin.wamsley@gmail.com,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,147846,481256,Neil,Cannon,Neil Cannon,ncannon@mainstreethl.com,571-474-4686,,571-474-4686,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,143081,476405,Colleen,Mcquillen,Colleen Mcquillen,cmcquillen@mainstreethl.com,703-864-7369,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,143600,101962,Jodi,Corsini,Jodi Corsini,,703-405-0566,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,145620,1118442,David,Boswell,David Boswell,dboswell@mainstreethl.com,571-616-0122,,703-554-3290,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,145199,394014,Matthew,Prehn,Matthew Prehn,,571-616-0109,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,145489,483887,Anthony,Barr,Anthony Barr,abarr@mainstreethl.com,571-616-0108,,571-405-7763,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,1189317,2612109,Sebastian,Abrigo,Sebastian Abrigo,,703-472-1399,,703-472-1399,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,353226,2328214,William,Trefry,William Trefry,btrefry@peoplesmortgage.com,703-615-4028,,703-615-4028,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,1065680,2500232,Lane,Nageotte-Taylor,Lane Nageotte-Taylor,,,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,158876,649500,Eric,Stillwell,Eric Stillwell,,407-967-5127,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,168608,1032627,Steven,Linane,Steven Linane,,571-620-2138,,571-250-9897,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,1304336,2700840,Mathew,Golsteyn,Mathew Golsteyn,,,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,468727,609771,Kristin,Tongarm,Kristin Tongarm,ktongarm@nfmlending.com,703-999-3220,,703-999-3220,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,469278,609860,Carrie,Courtillet,Carrie Courtillet,,,,,No
+"NFM Lending, LLC, Ashburn, VA Branch",,VA,1818038.0,700268,1538251,John,Cusato,John Cusato,,,,,No
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,144316,485100,Karen,Dulmage,Karen Dulmage,karen@mainstreethl.com,703-626-9007,,703-626-9007,Yes
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,194165,2075467,Meredith,Bolton,Meredith Bolton,meredith.douglas@movement.com,919-602-3430,,,No
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,281836,2061887,Ashley,Donovan,Ashley Donovan,,910-406-2305,,937-789-8630,No
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,187672,928361,Mellisa,Holt,Mellisa Holt,mholt@mainstreethl.com,910-420-3376,,,No
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,188949,105425,Ladonna,Hines,Ladonna Hines,,,,919-606-8000,No
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,285095,117343,Jeffry,King,Jeffry King,,919-889-7786,,919-400-1162,No
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,413429,2454572,Leah,Danak,Leah Danak,,910-500-6575,,,No
+"NFM Lending, LLC, Pinehurst, NC Branch",,NC,1822999.0,592981,1053626,Kimberly,Sutton,Kimberly Sutton,ksutton@nfmlending.com,202-765-7304,,202-765-7304,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,140251,201878,Salvatore,Savastano Jr,Salvatore Savastano Jr,sal@mainstreethl.com,401-639-6419,,401-639-6419,Yes
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,159116,202774,John,Savastano,John Savastano,,401-623-0222,,401-595-1151,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,135616,1721491,Jennifer,Richetelli,Jennifer Richetelli,jrichetelli@mainstreethl.com,203-415-0263,,203-415-0263,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,200025,1433663,Patricia,Vargas,Patricia Vargas,,401-310-0641,,401-603-7541,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,139545,1606301,Michael,Plummer,Michael Plummer,mplummer@mainstreethl.com,401-241-4043,,401-241-4043,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,139511,41681,David,Travers,David Travers,,,,401-378-0466,Yes
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,254993,1995628,Joseph,Travers,Joseph Travers,jtravers@mainstreethl.com,401-808-0982,,,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,1063261,2507823,Joshua,Zapata,Joshua Zapata,,,,,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,138302,22568,Jeremy,Vonflatern,Jeremy Vonflatern,,,jvonflatern@gmail.com,401-418-2399,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,1059257,2368669,Ming Hui,Chiu,Ming Hui Chiu,,,,,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,143297,25030,Tony,Charchafliah,Tony Charchafliah,,,,,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,214334,752955,Michelle,Richard,Michelle Richard,,877-816-1220,,,No
+"NFM Lending, LLC, Warwick, RI Branch",,RI,1825376.0,746470,1644440,Michelle,Mccormick,Michelle Mccormick,mmccormick@nfmlending.com,401-585-8283,,401-585-8283,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,146632,571973,Jonathan,Wald,Jonathan Wald,jwald@mainstreethl.com,914-629-1278,,914-629-1278,Yes
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,154087,476424,Robert,O'connell,Robert O'connell,roconnell@mainstreethl.com,443-272-5500,,443-829-0300,Yes
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,178849,1324500,Brian,Coleman,Brian Coleman,bcoleman@mainstreethl.com,443-986-1432,,443-986-1432,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,149552,476349,Brian,Mcdermott,Brian Mcdermott,bmcdermott@mainstreethl.com,410-960-6091,,410-960-6091,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,156891,156057,Kathleen,Lauman,Kathleen Lauman,,443-977-4003,tklhome@aol.com,410-804-6103,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,147268,455901,Jeffrey,St Clair,Jeffrey St Clair,,443-717-4176,,443-717-4176,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,146884,439838,Timothy,Reinhart,Timothy Reinhart,,410-303-4754,,410-303-4754,Yes
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,177203,1746622,Michael,Jenkins,Michael Jenkins,mjenkins@mainstreethl.com,443-977-4003,,410-206-1877,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,259070,532643,Caren,Keyes,Caren Keyes,ckeyes@mainstreethl.com,240-462-3319,,240-462-3319,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,189287,476352,Matthew,Zink,Matthew Zink,mzink@mainstreethl.com,410-916-1221,,410-916-1221,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,261706,2391972,Ryan,Der,Ryan Der,rder@mainstreethl.com,443-540-1199,,443-540-1199,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,152961,439839,Derek,Schwarz,Derek Schwarz,derek@mainstreethl.com,410-598-4401,,410-598-4401,Yes
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,258607,1659728,Michael,Giordano,Michael Giordano,mgiordano@mainstreethl.com,516-317-1573,,,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,146102,2280243,Daniel,Distefano,Daniel Distefano,ddistefano@mainstreethl.com,443-977-4003,,,Yes
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,1030635,2419155,Thomas,Lauman,Thomas Lauman,,410-690-7833,,,Yes
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,363246,2048822,Mari,Casto,Mari Casto,,304-216-9250,,,No
+"NFM Lending, LLC, Timonium, MD Branch",,MD,1825379.0,1000004,2353283,Stacey,Karayinopulos,Stacey Karayinopulos,,,,,No
+"NFM Lending, LLC, Delray Beach, FL Branch",,FL,1829238.0,117360,476326,Neil,Bourdelaise,Neil Bourdelaise,neil@mainstreethl.com,410-336-8432,,410-336-8432,Yes
+"NFM Lending, LLC, Delray Beach, FL Branch",,FL,1829238.0,151485,296861,Matthew,Pfeiffer,Matthew Pfeiffer,matt.pfeiffer@celebrityhomeloans.com,239-940-1622,,239-940-1622,No
+"NFM Lending, LLC, Delray Beach, FL Branch",,FL,1829238.0,148986,1089161,Ryan,Garvey,Ryan Garvey,rgarvey@mainstreethl.com,410-443-2483,,410-443-2483,No
+"NFM Lending, LLC, Delray Beach, FL Branch",,FL,1829238.0,1002288,2303741,Lyla,Kintzler,Lyla Kintzler,,,,,No
+"NFM Lending, LLC, North Attleboro, MA Branch",,MA,1830748.0,253746,1868090,Wendy,Posada,Wendy Posada,,508-343-8821,,,No
+"NFM Lending, LLC, North Attleboro, MA Branch",,MA,1830748.0,140622,212449,David,Licciardi,David Licciardi,,508-343-8828,,401-487-7691,Yes
+"NFM Lending, LLC, North Attleboro, MA Branch",,MA,1830748.0,1156876,2556642,Andrew,Licciardi,Andrew Licciardi,,,,,No
+"NFM Lending, LLC, North Attleboro, MA Branch",,MA,1830748.0,255158,1158423,Gina,Smith,Gina Smith,gsmith@meploans.com,508-272-5105,,508-272-5105,No
+"NFM Lending, LLC, North Attleboro, MA Branch",,MA,1830748.0,952433,2159856,Kristen,Reid,Kristen Reid,kreid@firsthome.com,401-321-4401,,401-321-4401,No
+"NFM Lending, LLC, North Attleboro, MA Branch",,MA,1830748.0,1155260,2368030,Valentina,Escolar,Valentina Escolar,,,,,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,144541,156081,Kyndle,Quinones,Kyndle Quinones,kyndle@mainstreethl.com,914-629-1278,,443-254-0381,Yes
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,159851,698954,Alicia,Harkowa,Alicia Harkowa,,443-250-5489,,443-250-5489,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,145952,2143938,Trent,Riggs,Trent Riggs,triggs@mainstreethl.com,410-490-7061,,410-490-7061,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,184606,476432,Peter,O'donnell,Peter O'donnell,pete@mainstreethl.com,410-299-2043,,410-299-2043,Yes
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,146353,815145,Ashley,Crist,Ashley Crist,ashley.crist@movement.com,888-589-4416,,443-799-4455,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,240444,219842,Andrew,Long,Andrew Long,clong@mainstreethl.com,443-336-5799,,443-336-5799,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,258738,1528113,Michael,Marinucci,Michael Marinucci,mmarinucci@mainstreethl.com,443-867-3671,,443-867-3671,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,258982,184344,Margaret,Templeton,Margaret Templeton,,,,410-271-3968,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,978734,2282594,Susanne,Zipp,Susanne Zipp,,410-533-8213,,,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,1278410,2621321,Jocelyn,Landaverde,Jocelyn Landaverde,,,,,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,1034232,2397521,Jennifer,Kaline,Jennifer Kaline,jkaline@mainstreethl.com,,,,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,752125,1632817,Chanon,Gough,Chanon Gough,,443-951-4753,,,No
+"NFM Lending, LLC, Severna Park, MD Branch",,MD,1839815.0,930272,2083228,Lindsay,Priest,Lindsay Priest,lpriest@nfmlending.com,443-750-8362,,443-750-8362,No
+"NFM Lending, LLC, Silver Spring, MD Branch",,MD,1844334.0,144237,463504,John,Vollmerhausen,John Vollmerhausen,tv@mainstreethl.com,301-537-3152,,301-537-3152,Yes
+"NFM Lending, LLC, Silver Spring, MD Branch",,MD,1844334.0,142699,2080611,Sharee,Awwal,Sharee Awwal,sawwal@mainstreethl.com,240-436-2956,,240-299-5684,Yes
+"NFM Lending, LLC, Silver Spring, MD Branch",,MD,1844334.0,142961,143670,Christopher,Jordan,Christopher Jordan,,240-670-5090,,301-257-8080,No
+"NFM Lending, LLC, Silver Spring, MD Branch",,MD,1844334.0,260993,1545572,Joshua,Fowler,Joshua Fowler,,240-670-5090,,301-806-6441,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,2257,256030,Daniel,Borg,Daniel Borg,dborg@mybploan.com,888-233-0092,,,Yes
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,209328,337285,Bryant,Delgado,Bryant Delgado,bryant@mybploan.com,832-275-4694,,832-275-4694,Yes
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,176561,1589041,Richard,Gega,Richard Gega,rgega@revolutionmortgage.com,925-852-1462,,925-852-1462,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,1165861,2590122,James,Lanier,James Lanier,,,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,205792,1603385,James,Svehla,James Svehla,jim.svehla@drmconline.com,847-636-4328,,847-636-4328,Yes
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,50691,343055,Jeffrey,Welgan,Jeffrey Welgan,jwelgan@mybploan.com,949-306-1287,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,51088,1920155,Rachel,Prescott,Rachel Prescott,RPrescott@GoldStarFinancial.com,573-864-6551,,573-864-6551,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,293261,1374044,Ariel,Gomerez,Ariel Gomerez,agomerez@greenriver.org,347-605-8013,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,1055323,2453150,Tim,Underwood,Tim Underwood,tunderwood@mybploan.com,205-401-7997,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,171550,1588538,Austyn,Shuman,Austyn Shuman,ashuman@revolutionmortgage.com,208-712-8230,,208-818-0195,Yes
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,97906,264326,Sherrie,Fico,Sherrie Fico,,925-980-4046,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,1092376,278510,Kevin,Bricker,Kevin Bricker,,614-701-0095,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,343687,2215527,Desiree,Chappell,Desiree Chappell,dchappell@revolutionmortgage.com,701-214-2059,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,95878,1179154,Tyler,Rumpel,Tyler Rumpel,trumpel@mybploan.com,888-233-0092,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,78969,955040,Christina,Archuleta,Christina Archuleta,tarchuleta@mybploan.com,925-864-4326,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,95691,373182,Jaime,Joyner,Jaime Joyner,,,,925-787-5702,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,369210,1829457,Shane,Randol,Shane Randol,shane.randol@envoymortgage.com,832-361-5130,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,343188,207034,Joseph,Armstrong,Joseph Armstrong,,346-980-9558,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,270565,259158,Lindsay,Poe,Lindsay Poe,,619-213-2898,,,No
+"NFM Lending, LLC, Encinitas, CA Branch",,CA,1913365.0,1298623,2678661,Matthew,Fine,Matthew Fine,,,,,No
+"NFM Lending, LLC, Las Vegas, NV Branch",,NV,1925391.0,891551,1965985,Camelia,Perez,Camelia Perez,cperez@nfmlending.com,443-451-3112,,,Yes
+"NFM Lending, LLC, Hingham, MA Branch",,MA,1934380.0,146948,1133739,Nathan,Hartseil,Nathan Hartseil,,617-315-2030,,508-534-8942,Yes
+"NFM Lending, LLC, Hingham, MA Branch",,MA,1934380.0,181554,85965,Kelcey,Morange,Kelcey Morange,kmorange@mainstreethl.com,617-869-5644,approvedbykelcey@yahoo.com,617-869-5644,No
+"NFM Lending, LLC, Hingham, MA Branch",,MA,1934380.0,183895,173535,Melissa,Caci,Melissa Caci,,781-454-7399,,,No
+"NFM Lending, LLC, Hingham, MA Branch",,MA,1934380.0,256785,242530,Valaria,Zaverucha,Valaria Zaverucha,,,,508-479-9835,No
+"NFM Lending, LLC, Hingham, MA Branch",,MA,1934380.0,256577,2073619,Daniel,Albrecht,Daniel Albrecht,dalbrecht@nfmlending.com,781-588-5735,,781-588-5735,No
+"NFM Lending, LLC, Hingham, MA Branch",,MA,1934380.0,256740,317626,Laurie,Barrett,Laurie Barrett,,508-245-8972,barrett2665@comcast.net,603-703-2345,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,190271,885156,Mario,Cua,Mario Cua,mcua@nfmlending.com,614-369-4840,,614-369-4840,Yes
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,206232,1621621,Kyle,Mccort,Kyle Mccort,kmccort@nfmlending.com,330-413-0977,,330-413-0977,Yes
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,53809,1217387,Ryan,Colopy,Ryan Colopy,rcolopy@nfmlending.com,614-465-3824,,614-465-3824,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,267901,2330038,Jennifer,Beavers,Jennifer Beavers,jbeavers@nfmlending.com,,,419-215-5447,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,56384,1954638,Tessa,Johns,Tessa Johns,tjohns@nfmlending.com,614-696-6502,,330-635-0648,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,871031,1891827,Rebecca,Raines,Rebecca Raines,rraines@nfmlending.com,614-454-3732,,269-274-5887,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,46414,1522998,Sunny,Amin,Sunny Amin,samin@nfmlending.com,614-369-4846,,440-212-6849,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,44170,1849385,Ryan,Donovan,Ryan Donovan,cuateam@nfmlending.com,614-721-7877,,614-216-1385,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,307392,1786142,Christopher,Brown,Christopher Brown,chrisb@nfmlending.com,614-369-4840,,216-930-0223,No
+"NFM Lending, LLC, Worthington, OH Branch",,OH,1952363.0,948801,2174257,Colin,Beer,Colin Beer,,,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,43824,90937,Oleg,Tkach,Oleg Tkach,otkach@nfmlending.com,425-478-7676,,425-478-7676,Yes
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,210838,92866,Petros,Christophilis,Petros Christophilis,petros@nfmlending.com,206-406-4690,,206-406-4690,Yes
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,44632,108278,Jeff,Miltenberger,Jeff Miltenberger,jmiltenberger@nfmlending.com,206-295-8455,,206-295-8455,Yes
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,149410,2009951,Cristian,Toaca,Cristian Toaca,cristian@nfmlending.com,833-395-5626,,425-999-9044,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,207941,770231,Erick,Carlson,Erick Carlson,ecarlson@nfmlending.com,509-552-0254,,425-405-0353,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,174901,2088872,Chase,Toscano,Chase Toscano,ctoscano@nfmlending.com,425-300-1007,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,742153,1624927,Ashley,Bychowski,Ashley Bychowski,abychowski@cornerstonecapital.com,206-521-6113,,206-521-6113,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,206468,1900703,Matthew,Wall,Matthew Wall,,425-939-0836,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,358723,1502891,Julie,Fleming,Julie Fleming,jfleming@nfmlending.com,425-250-6261,,425-772-0918,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,360493,1585278,Karise,Buell,Karise Buell,,425-300-1368,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,526034,1173747,Allyson,Davis,Allyson Davis,adavis@nfmlending.com,425-300-1409,,425-300-1409,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,612184,1182962,Diana,Levchenko,Diana Levchenko,,425-412-6789,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,616868,1180890,Melissa,Schmidt,Melissa Schmidt,mmccord@nfmlending.com,425-412-5242,,425-412-5242,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,649271,1325739,Lina,Sennikova,Lina Sennikova,lsennikova@nfmlending.com,425-300-1371,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,694945,1513407,Taylor,Morgan,Taylor Morgan,,,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,695764,1515692,Alexandra,Stepanova,Alexandra Stepanova,astepanova@nfmlending.com,425-300-1309,,425-300-1309,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,118794,487429,Stephen,Chow,Stephen Chow,,206-397-1277,,425-260-1728,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,27711,606584,Nathaniel,Saulus,Nathaniel Saulus,,,,425-770-6868,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,347234,2041817,Mark,Zhuk,Mark Zhuk,,253-709-7277,,253-709-7277,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,769325,1685482,Shannon,Tomak,Shannon Tomak,stomak@nfmlending.com,425-300-1370,,,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,798395,1734774,Allison,Geychenko,Allison Geychenko,ageychenko@nfmlending.com,425-412-7079,,425-412-7079,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,814055,1769959,Nelya,Sennikova,Nelya Sennikova,nsennikova@nfmlending.com,425-412-5260,,425-412-5260,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,984691,2263944,Todd,Anderson,Todd Anderson,tanderson@nfmlending.com,425-829-1934,,425-300-1403,No
+"NFM Lending, LLC, Lynnwood, WA Branch",,WA,1959676.0,1273651,1958912,Alicia,Hardy,Alicia Hardy,,,,,No
+"NFM Lending, LLC, Saint Petersburg, FL Branch",,FL,2006802.0,146399,327235,Jane,Floyd,Jane Floyd,jfloyd@nfmlending.com,813-961-3900,,813-758-8334,Yes
+"NFM Lending, LLC, Seattle, WA Branch",,WA,2104851.0,210838,92866,Petros,Christophilis,Petros Christophilis,petros@nfmlending.com,206-406-4690,,206-406-4690,Yes
+"NFM Lending, LLC, Seattle, WA Branch",,WA,2104851.0,742153,1624927,Ashley,Bychowski,Ashley Bychowski,abychowski@cornerstonecapital.com,206-521-6113,,206-521-6113,No
+"NFM Lending, LLC, Seattle, WA Branch",,WA,2104851.0,867673,1903917,Tracy,Corray,Tracy Corray,,720-799-4144,,,No
+"NFM Lending, LLC, Seattle, WA Branch",,WA,2104851.0,1273651,1958912,Alicia,Hardy,Alicia Hardy,,,,,No
+"NFM Lending, LLC, Seattle, WA Branch",,WA,2104851.0,27711,606584,Nathaniel,Saulus,Nathaniel Saulus,,,,425-770-6868,No
+"NFM Lending, LLC, Seattle, WA Branch",,WA,2104851.0,118794,487429,Stephen,Chow,Stephen Chow,,206-397-1277,,425-260-1728,No
+"NFM Lending, LLC, Medford Lakes, NJ Branch",,NJ,2108575.0,145384,13818,Dana,Gounaris,Dana Gounaris,danag@nfmlending.com,856-905-9017,,856-905-9017,Yes
+"NFM Lending, LLC, Medford Lakes, NJ Branch",,NJ,2108575.0,185268,210533,Ronald,Gosewisch,Ronald Gosewisch,rong@nfmlending.com,856-912-4748,,856-912-4748,Yes
+"NFM Lending, LLC, Medford Lakes, NJ Branch",,NJ,2108575.0,727464,1614666,Dana,Buciorelli-Torrissi,Dana Buciorelli-Torrissi,,,,,No
+"NFM Lending, LLC, Ocean City, NJ Branch",,NJ,2132020.0,145384,13818,Dana,Gounaris,Dana Gounaris,danag@nfmlending.com,856-905-9017,,856-905-9017,Yes
+"NFM Lending, LLC, Ocean City, NJ Branch",,NJ,2132020.0,185268,210533,Ronald,Gosewisch,Ronald Gosewisch,rong@nfmlending.com,856-912-4748,,856-912-4748,Yes
+"NFM Lending, LLC, Ocean City, NJ Branch",,NJ,2132020.0,292676,1863333,Marisa,Carey,Marisa Carey,mcarey@nfmlending.com,609-234-8599,,609-234-8599,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,122208,298994,Richard,Dillman,Richard Dillman,rdillman@nfmlending.com,719-888-4967,,719-201-8193,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,123310,1081373,Bradley,Hayes,Bradley Hayes,BHayes@NFMLending.com,719-551-0782,,719-551-0782,Yes
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,122465,459324,Mary,Greenwood,Mary Greenwood,mgreenwood@nfmlending.com,417-540-4858,,719-649-6656,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,129880,2137813,Taylor,Gutierrez,Taylor Gutierrez,tgutierrez@nfmlending.com,,,,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,124137,1464268,Mayggun,Milenski,Mayggun Milenski,,888-233-0092,,808-379-3933,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,122092,1954455,Eric,Bewley,Eric Bewley,ebewley@nfmlending.com,,mrpargolf72@aol.com,,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,123966,1141835,Anne,Pharis,Anne Pharis,apharis@nfmlending.com,719-306-2329,,719-306-2329,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,127825,1961562,Nicholas,Justice,Nicholas Justice,njustice@nfmlending.com,719-725-1505,,719-725-1505,Yes
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,123673,1617074,Tammy,Dillman,Tammy Dillman,tdillman@nfmlending.com,719-201-6307,,888-233-0092,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2135334.0,1001873,2361548,Ashley,Johnson,Ashley Johnson,,,,,No
+"NFM Lending, LLC, St. Louis, MO Branch",,MO,2186903.0,275545,403454,Christopher,Cooper,Christopher Cooper,christopher.cooper@123mortgageteam.com,314-260-4310,,314-757-0878,Yes
+"NFM Lending, LLC, St. Louis, MO Branch",,MO,2186903.0,159202,1106838,Carlos,Ferbeyre,Carlos Ferbeyre,cferbeyre@radiusgrp.com,786-972-1409,,,No
+"NFM Lending, LLC, St. Louis, MO Branch",,MO,2186903.0,184413,265843,David,Budzinski,David Budzinski,david.budzinski@123mortgageteam.com,314-479-4463,,,Yes
+"NFM Lending, LLC, St. Louis, MO Branch",,MO,2186903.0,88012,1561950,William,Vandyke,William Vandyke,,888-636-7573,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2226816.0,196903,525328,David,Arocho,David Arocho,darocho@nfmlending.com,614-657-1167,david.steelerfan.arocho@gmail.com,614-657-1167,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2226816.0,127480,525347,Todd,Novosel,Todd Novosel,tnovosel@nfmlending.com,614-647-4770,,614-439-3314,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2226816.0,126898,284429,Jesse,Heath,Jesse Heath,jheath@nfmlending.com,614-840-5018,,,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2226816.0,47989,525331,Kathleen,Holtz,Kathleen Holtz,kholtz@nfmlending.com,614-612-0353,,614-579-2929,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2226816.0,306633,216047,Victoria,Morello,Victoria Morello,vmorello@nfmlending.com,614-840-5017,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2226816.0,390380,357462,Donald,Demattio,Donald Demattio,ddemattio@nfmlending.com,614-353-0739,,,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2226816.0,850137,1875159,Adam,Vaccari,Adam Vaccari,avaccari@nfmlending.com,614-840-5019,,,No
+"NFM Lending, LLC, Bellevue, WA Branch",,WA,2227039.0,116105,317162,Trevor,Bennett,Trevor Bennett,tbennett@nfmlending.com,425-979-5727,,425-318-1483,Yes
+"NFM Lending, LLC, Bellevue, WA Branch",,WA,2227039.0,356623,1153111,Dennis,Henderson,Dennis Henderson,dhenderson@nfmlending.com,425-951-0665,,425-951-0665,No
+"NFM Lending, LLC, Bellevue, WA Branch",,WA,2227039.0,623397,1231413,Julie,Henderson,Julie Henderson,,,,,No
+"NFM Lending, LLC, Bellevue, WA Branch",,WA,2227039.0,928828,2091479,Ashley,Zeiba,Ashley Zeiba,,,,,No
+"NFM Lending, LLC, Bellevue, WA Branch",,WA,2227039.0,134553,505257,Patrick,Tiernan,Patrick Tiernan,ptiernan@nfmlending.com,425-208-9806,,,No
+"NFM Lending, LLC, North Palm Beach, FL Branch",,FL,2256915.0,145384,13818,Dana,Gounaris,Dana Gounaris,danag@nfmlending.com,856-905-9017,,856-905-9017,Yes
+"NFM Lending, LLC, North Palm Beach, FL Branch",,FL,2256915.0,170723,460689,Theresa,Thompson,Theresa Thompson,tthompson@nfmlending.com,561-777-2127,,561-286-7800,Yes
+"NFM Lending, LLC, Littleton, CO Branch",,CO,2287941.0,51499,256107,Aaron,Ninness,Aaron Ninness,aninness@nfmlending.com,303-908-2768,,303-908-2768,Yes
+"NFM Lending, LLC, Littleton, CO Branch",,CO,2287941.0,126644,1119930,Carrie,Walker,Carrie Walker,carrie.walker@nafinc.com,970-381-7081,,970-381-7081,No
+"NFM Lending, LLC, Littleton, CO Branch",,CO,2287941.0,124597,292178,Steven,Laforest,Steven Laforest,slaforest@nfmlending.com,970-616-5177,,970-381-4374,No
+"NFM Lending, LLC, Littleton, CO Branch",,CO,2287941.0,124948,276579,Michael,Bustamante,Michael Bustamante,mbustamante@nfmlending.com,970-227-7098,,970-227-7098,No
+"NFM Lending, LLC, Littleton, CO Branch",,CO,2287941.0,124605,1030046,Kellen,Miles,Kellen Miles,Kellen.Miles@nafinc.com,970-213-8572,,970-213-8572,No
+"NFM Lending, LLC, Littleton, CO Branch",,CO,2287941.0,299924,279751,Mark,Smith,Mark Smith,,,,,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2314912.0,14691,274201,Shanon,Schinkel,Shanon Schinkel,sschinkel@nfmlending.com,719-457-2200,,,Yes
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2314912.0,123720,227473,Kevin,Smith,Kevin Smith,ksmith@nfmlending.com,719-374-9130,,,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2314912.0,127189,1858040,Bree,Ham,Bree Ham,bham@nfmlending.com,719-457-2200,,719-963-0223,No
+"NFM Lending, LLC, Colorado Springs, CO Branch",,CO,2314912.0,843913,1834472,Anna,Kitowski,Anna Kitowski,akitowski@nfmlending.com,719-510-9767,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,145384,13818,Dana,Gounaris,Dana Gounaris,danag@nfmlending.com,856-905-9017,,856-905-9017,Yes
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,185268,210533,Ronald,Gosewisch,Ronald Gosewisch,rong@nfmlending.com,856-912-4748,,856-912-4748,Yes
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,169804,128654,Michael,Badessa,Michael Badessa,mbadessa@nfmlending.com,856-831-7120,,609-354-8112,Yes
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,162967,1682317,Casey,Coyle,Casey Coyle,ccoyle@nfmlending.com,,huntvalley@gmail.com,856-981-4112,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,185060,2088096,Vicente,Gutierrez,Vicente Gutierrez,vgutierrez@nfmlending.com,856-371-9424,vincegut22@yahoo.com,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,147322,161236,Bradley,Zerbe,Bradley Zerbe,bradley.zerbe@gatewayloan.com,856-890-7056,,609-410-5922,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,171571,1138214,Ronson,Quick,Ronson Quick,rquick@nfmlending.co,609-969-0187,,609-969-0187,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,940124,2145884,Austen,Ward,Austen Ward,award@nfmlending.com,856-283-3637,,609-828-4913,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,292717,1471952,Dominique,Flipping,Dominique Flipping,dflipping@nfmlending.com,609-665-0927,dominiqueflipping1@gmail.com,609-665-0927,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,296499,1560201,Aaron,Hartman,Aaron Hartman,ahartman@nfmlending.com,856-381-6955,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,243131,913149,Gurcharan,Bhular,Gurcharan Bhular,gurcharan.bhular@rate.com,856-266-3596,,856-266-3596,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,184588,165946,Gregory,Bodine,Gregory Bodine,Greg.Bodine@gatewayloan.com,609-304-9932,,609-304-9932,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,146058,404686,Michael,Pancoast,Michael Pancoast,mpancoast@cmgfi.com,856-394-5121,,267-205-6699,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,294707,1887588,Luiz,Machado,Luiz Machado,,732-900-4890,,732-900-4890,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,393970,355316,Katie,Johnson,Katie Johnson,,,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,606203,1128916,Shannon,Atene,Shannon Atene,,,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,292676,1863333,Marisa,Carey,Marisa Carey,mcarey@nfmlending.com,609-234-8599,,609-234-8599,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,194255,26154,Jennifer,Surloff,Jennifer Surloff,,,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,209439,482554,Jeanne,Walker,Jeanne Walker,jeanne.walker@phmloans.com,804-382-5252,jk4steelers@gmail.com,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,216251,2095905,Robert,Alcavage,Robert Alcavage,,609-707-6017,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,1059241,2399517,Asia,Addison,Asia Addison,,609-346-8805,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,1132205,2495053,Christopher,Long,Christopher Long,,,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,1220949,2620500,John,Murkli,John Murkli,,609-832-2697,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,1280320,2639819,Jenni,Kim,Jenni Kim,,,,,No
+"NFM Lending, LLC, Haddonfield, NJ Branch",,NJ,2325817.0,1305121,2664732,Brian,Boucher,Brian Boucher,,,,,Yes
+"NFM Lending, LLC, Newport Beach, CA Branch",,CA,2333657.0,46327,335381,Kevin,Rudrud,Kevin Rudrud,kevin@nfmlending.com,949-554-2616,kevinrudrud@gmail.com,808-800-4167,Yes
+"NFM Lending, LLC, Newport Beach, CA Branch",,CA,2333657.0,504397,737962,Patrick,Feezell,Patrick Feezell,,,,,No
+"NFM Lending, LLC, Newport Beach, CA Branch",,CA,2333657.0,765100,1683551,Brianna,Berglund,Brianna Berglund,,,,,No
+"NFM Lending, LLC, Newport Beach, CA Branch",,CA,2333657.0,830655,1811495,Heidi,Alvarado,Heidi Alvarado,,,,,No
+"NFM Lending, LLC, Newport Beach, CA Branch",,CA,2333657.0,39209,161585,Andrea,Pace,Andrea Pace,,,,,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,2341265.0,209641,953995,Octavio,Wilson,Octavio Wilson,owilson@nfmlending.com,804-814-0015,,804-814-0015,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,2341265.0,51715,646417,Tiffany,Arnold,Tiffany Arnold,tiffany@nfmlending.com,804-305-6004,,804-305-6004,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,2341265.0,353296,912315,Terri,Perry Tyson,Terri Perry Tyson,ttyson@nfmlending.com,703-891-4501,,,No
+"NFM Lending, LLC, Richmond, VA Branch",,VA,2341265.0,370195,50154,Juan,Jimenez,Juan Jimenez,,,,,Yes
+"NFM Lending, LLC, Fairhope, AL Branch",,AL,2343626.0,4177,2028734,Aaron,Jensen,Aaron Jensen,ajensen@nfmlending.com,985-400-4320,,,Yes
+"NFM Lending, LLC, Kailua-Kona, HI Branch",,HI,2349464.0,46327,335381,Kevin,Rudrud,Kevin Rudrud,kevin@nfmlending.com,949-554-2616,kevinrudrud@gmail.com,808-800-4167,Yes
+"NFM Lending, LLC, Kailua-Kona, HI Branch",,HI,2349464.0,226081,1006771,Jamaica,Canas,Jamaica Canas,jcanas@nfmlending.com,808-443-1668,,,Yes
+"NFM Lending, LLC, Kailua-Kona, HI Branch",,HI,2349464.0,43882,1586800,Alena,Griffey,Alena Griffey,agriffey@nfmlending.com,808-936-1571,,808-936-1571,No
+"NFM Lending, LLC, Kailua-Kona, HI Branch",,HI,2349464.0,225899,1426052,Mana,Canon,Mana Canon,mana.canon@academymortgage.com,808-315-0065,,808-315-0065,No
+"NFM Lending, LLC, Kailua-Kona, HI Branch",,HI,2349464.0,504397,737962,Patrick,Feezell,Patrick Feezell,,,,,No
+"NFM Lending, LLC, Charleston, SC Branch",,SC,2377698.0,169378,1644073,Jacob,Williams,Jacob Williams,,,,864-506-6411,Yes
+"NFM Lending, LLC, Charleston, SC Branch",,SC,2377698.0,185127,1701055,Zachary,Cooper,Zachary Cooper,zcooper@nfmlending.com,843-823-6365,cooper.zac@gmail.com,864-230-5349,Yes
+"NFM Lending, LLC, Charleston, SC Branch",,SC,2377698.0,1151081,2565803,Chandler,Townsend,Chandler Townsend,,,,,No
+"NFM Lending, LLC, Denton, TX Branch",,TX,2380698.0,30821,281509,Stephen,Pollard,Stephen Pollard,cpollard@nfmlending.com,214-697-3188,,214-697-3188,Yes
+"NFM Lending, LLC, Denton, TX Branch",,TX,2380698.0,334887,1573429,Chris,Odom,Chris Odom,,214-377-0041,coltsami@yahoo.com,940-367-9559,No
+"NFM Lending, LLC, Denton, TX Branch",,TX,2380698.0,343983,224304,Penelope,Bisbee,Penelope Bisbee,,,,,No
+"NFM Lending, LLC, Denton, TX Branch",,TX,2380698.0,637371,1248577,Nicolette,Smith,Nicolette Smith,,214-377-0041,misti29@comcast.net,385-242-6861,No
+"NFM Lending, LLC, Denton, TX Branch",,TX,2380698.0,749830,1644907,Kelsey,Weeks,Kelsey Weeks,,,,,No
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,177015,270223,Ashley,Rustom,Ashley Rustom,ashleyrustom@elementhl.com,770-604-6029,arloans@hotmail.com,678-410-2348,No
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,23768,210712,Coleen,Stewart,Coleen Stewart,,404-626-3686,,404-626-3686,Yes
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,219534,1715989,Allen,Lowther,Allen Lowther,,678-229-8767,,678-229-8767,No
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,221658,2166644,Slaton,Waldo,Slaton Waldo,,770-851-8419,,,No
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,221954,1807955,Wesley,Mcconnell,Wesley Mcconnell,wmcconnell@elementhl.com,404-863-3908,,,No
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,375977,151132,Larry,Sutton,Larry Sutton,,800-255-2792,,,Yes
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,416269,417683,Gary,Tuorto,Gary Tuorto,,561-684-8523,,954-931-2502,No
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,666236,1370857,Andrea,Ragan,Andrea Ragan,,770-604-6021,,,No
+"NFM Lending, LLC, Alpharetta, GA Branch",,GA,2382233.0,214692,2116987,Todd,Bute,Todd Bute,,770-604-6021,,,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,176841,148916,Deann,Ellis,Deann Ellis,deannellis@elementhl.com,770-616-8042,,770-616-8042,Yes
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,92977,1917796,James,Stanford,James Stanford,,470-570-0711,,,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,206974,1635824,Clairissa,Pequignot,Clairissa Pequignot,clairissa.pequignot@southeastmortgage.com,770-354-9676,clairp0611@gmail.com,770-354-9676,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,158476,1985036,Darrell,North,Darrell North,drnorth@elementhl.com,470-505-9732,,470-505-9732,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,204103,275166,Pamela,Ball,Pamela Ball,pamelaball@elementhl.com,678-820-3599,,678-820-3599,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,219811,658853,Wallace,Gentry,Wallace Gentry,wallacegentry@elementhl.com,678-300-8397,wgentry44@bellsouth.net,770-609-6155,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,221516,1890901,Phillip,Hobbs,Phillip Hobbs,phobbs@elementhl.com,800-255-2792,,,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,375991,151138,Lee,Waldo,Lee Waldo,lwaldo@elementhl.com,800-255-2792,,,Yes
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,823671,1802854,Morgan,Stevens,Morgan Stevens,,770-728-1993,,770-728-1993,No
+"NFM Lending, LLC, Monroe, GA Branch",,GA,2382241.0,1161356,1729544,Kayla,Ellis,Kayla Ellis,,,,,No
+"NFM Lending, LLC, Franklin, TN Branch",,TN,2382914.0,175956,1137528,Brenton,Haas,Brenton Haas,brent.haas@elementhl.com,615-477-4383,,615-477-4383,Yes
+"NFM Lending, LLC, Franklin, TN Branch",,TN,2382914.0,1077993,2460391,Preston,Garner,Preston Garner,pgarner@elementhl.com,800-255-2792,,615-354-3665,No
+"NFM Lending, LLC, Franklin, TN Branch",,TN,2382914.0,331817,2314692,Daniel,Smith,Daniel Smith,,865-274-7875,,,No
+"NFM Lending, LLC, Franklin, TN Branch",,TN,2382914.0,330240,1386805,Shannon,Haas,Shannon Haas,,952-356-2555,,,No
+"NFM Lending, LLC, Franklin, TN Branch",,TN,2382914.0,523113,1137516,Max,Haas,Max Haas,,,,,No
+"NFM Lending, LLC, Franklin, TN Branch",,TN,2382914.0,202925,1215332,Tye,Haas,Tye Haas,,615-981-5084,,615-981-5084,No
+"NFM Lending, LLC, Hixson, TN Branch",,TN,2382920.0,15618,151159,Kevin,Blair,Kevin Blair,kevinblair@elementhl.com,423-451-4814,,423-488-7571,Yes
+"NFM Lending, LLC, Hixson, TN Branch",,TN,2382920.0,1007853,2380486,Joshua,Blair,Joshua Blair,jblair@nfmlending.com,423-653-9653,,423-653-9653,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,155524,1618808,Anthony,Pasquale,Anthony Pasquale,anthonyp@nfmlending.com,561-906-1160,,561-906-1160,Yes
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,148900,332466,Lane,Baron,Lane Baron,lbaron@elementhl.com,954-868-1826,,954-332-0076,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,157968,277961,Maurice,Kalter,Maurice Kalter,mkalter@elementhl.com,561-245-1100,twindad@cyberdude.com,561-245-1100,Yes
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,155854,330616,Daniel,Cooke,Daniel Cooke,dcooke@elementhl.com,954-332-0505,,954-332-4378,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,161339,1181017,Roland,Victor,Roland Victor,roland.victor@elementhl.com,813-244-2978,,863-332-2028,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,151642,1047908,Debra,Harper,Debra Harper,,321-223-5183,,321-223-5183,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,157019,339002,Nichole,Ogrodnick,Nichole Ogrodnick,nmanor@elementhl.com,561-253-0571,,561-385-1895,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,152132,348902,Brian,Scott,Brian Scott,bscott@elementfunding.com,305-527-0168,,,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,162111,1618809,Zachary,Childress,Zachary Childress,zchildress@elementhl.com,804-350-1121,,804-350-1121,No
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,387674,334373,Gus,Pasquale,Gus Pasquale,gpasquale@elementhl.com,800-255-2792,,,Yes
+"NFM Lending, LLC, Sunrise, FL Branch",,FL,2400001.0,744724,1630623,Laura,Zanetti,Laura Zanetti,,,,,No
+"NFM Lending, LLC, Akron, OH Branch",,OH,2437756.0,206232,1621621,Kyle,Mccort,Kyle Mccort,kmccort@nfmlending.com,330-413-0977,,330-413-0977,Yes
+"NFM Lending, LLC, Akron, OH Branch",,OH,2437756.0,211102,2097295,Lisa,Conner,Lisa Conner,lconner@nfmlending.com,330-923-3770,,330-575-6199,No
+"NFM Lending, LLC, Highland Village, TX Branch",,TX,2444826.0,19490,197411,Stacey,Cobb,Stacey Cobb,scobb@nfmlending.com,972-985-5209,,214-929-6525,Yes
+"NFM Lending, LLC, Highland Village, TX Branch",,TX,2444826.0,189841,5327,Suzanne,Reed,Suzanne Reed,sreed@nfmlending.com,214-796-2020,,,No
+"NFM Lending, LLC, Highland Village, TX Branch",,TX,2444826.0,189210,196730,Rodney,Anderson,Rodney Anderson,randerson@nfmlending.com,972-985-5200,,972-985-5200,No
+"NFM Lending, LLC, Highland Village, TX Branch",,TX,2444826.0,762433,1686987,Alexander,Thies,Alexander Thies,,,,,No
+"NFM Lending, LLC, Savannah, GA Branch",,GA,2446298.0,196786,496754,David,Summers,David Summers,dsummers@nfmlending.com,614-350-0949,,614-595-5598,Yes
+"NFM Lending, LLC, Savannah, GA Branch",,GA,2446298.0,213754,1578530,Andrew,Snyder,Andrew Snyder,asnyder@nfmlending.com,614-764-1232,,614-578-2862,No
+"NFM Lending, LLC, Savannah, GA Branch",,GA,2446298.0,891438,1976831,Danielle,Hughes,Danielle Hughes,,,,,No
+"NFM Lending, LLC, Collegeville, PA Branch",,PA,2450860.0,142428,95005,Jeremiah,Cook,Jeremiah Cook,jecook@nfmlending.com,215-837-0387,,215-837-0387,Yes
+"NFM Lending, LLC, Collegeville, PA Branch",,PA,2450860.0,207670,580484,Scott,Tomlinson,Scott Tomlinson,,610-691-6015,,484-467-6375,Yes
+"NFM Lending, LLC, Madison, GA Branch",,GA,2538966.0,910689,1990708,Alec,Stettler,Alec Stettler,astettler@nfmlending.com,941-315-9807,,941-209-2147,Yes
+"NFM Lending, LLC, Towson, MD Branch",,MD,2541307.0,372619,14702,Ivone,Schott,Ivone Schott,ischott@nfmlending.com,,,,Yes
+"NFM Lending, LLC, Towson, MD Branch",,MD,2541307.0,376622,193246,Kevin,Holmes,Kevin Holmes,kholmes@contourmtg.com,443-275-7762,,717-676-8733,Yes
+"NFM Lending, LLC, Plantation, FL Branch",,FL,2551369.0,148690,369430,Daniel,Longman,Daniel Longman,dlongman@nfmlending.com,954-602-9880,,305-525-9049,Yes
+"NFM Lending, LLC, Plantation, FL Branch",,FL,2551369.0,148034,369398,Kenneth,Zorovich,Kenneth Zorovich,kzorovich@nfmlending.com,954-602-9880,,305-360-2196,No
+"NFM Lending, LLC, Plantation, FL Branch",,FL,2551369.0,165564,484274,Dianne,Voitle-Dick,Dianne Voitle-Dick,,,,352-240-4018,No
+"NFM Lending, LLC, Plantation, FL Branch",,FL,2551369.0,218604,1752676,Andrea,Leeder,Andrea Leeder,,,,,No
+"NFM Lending, LLC, Plantation, FL Branch",,FL,2551369.0,989759,2336881,Melanie,Scott,Melanie Scott,,,,,No
+"NFM Lending, LLC, Plantation, FL Branch",,FL,2551369.0,1134319,2541793,Miguel,Rodriguez,Miguel Rodriguez,,954-673-6044,,,No
+"NFM Lending, LLC, Richmond, TX Branch",,TX,2560087.0,198751,267607,Sheryl,Shirley,Sheryl Shirley,sshirley@elementhl.com,832-282-1225,,,No
+"NFM Lending, LLC, Richmond, TX Branch",,TX,2560087.0,34572,77115,Grant,Laclave,Grant Laclave,glaclave@elementhl.com,281-436-7451,gblsnl@sbcglobal.net,972-989-0925,No
+"NFM Lending, LLC, Richmond, TX Branch",,TX,2560087.0,335818,268110,Richard,Carrier,Richard Carrier,rcarrier@elementhl.com,702-213-4000,,281-923-6956,Yes
+"NFM Lending, LLC, Richmond, TX Branch",,TX,2560087.0,900847,1969052,Michael,Gray,Michael Gray,,832-497-2406,,,No
+"NFM Lending, LLC, Richmond, TX Branch",,TX,2560087.0,344908,2114704,Brittani,Webber,Brittani Webber,,,,,No
+"NFM Lending, LLC, Orlando, FL Branch",,FL,2570962.0,155139,1768650,Steven,Rivera,Steven Rivera,srivera@nfmlending.com,407-764-7372,,,No
+"NFM Lending, LLC, Orlando, FL Branch",,FL,2570962.0,152670,270033,Erika,Borrero,Erika Borrero,eborrero@nfmlending.com,,,407-463-6420,Yes
+"NFM Lending, LLC, Orlando, FL Branch",,FL,2570962.0,152820,2057133,Michel,Baez,Michel Baez,mbaez@nfmlending.com,689-500-4575,,407-506-4341,No
+"NFM Lending, LLC, Orlando, FL Branch",,FL,2570962.0,152293,910808,Lynn,Tosi,Lynn Tosi,ltosi@nfmlending.com,689-219-3912,,,No
+"NFM Lending, LLC, Orlando, FL Branch",,FL,2570962.0,168774,1800327,Paula,Rosales Diez,Paula Rosales Diez,paula@teweslending.com,407-534-3177,,407-534-3177,No
+"NFM Lending, LLC, Orlando, FL Branch",,FL,2570962.0,161999,1716482,Galo,Paredes,Galo Paredes,gparedes@nfmlending.com,786-200-6520,,,No
+"NFM Lending, LLC, Orlando, FL Branch",,FL,2570962.0,863631,1900584,Danielle,Nappi,Danielle Nappi,dnappi@nfmlending.com,407-288-2783,,407-288-2783,No
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2571708.0,170065,301842,Kristopher,Mccurry,Kristopher Mccurry,kmccurry@nfmlending.com,614-570-9755,hollawoodproductions@yahoo.com,614-570-9755,Yes
+"NFM Lending, LLC, Columbus, OH Branch",,OH,2571708.0,213630,1085415,Joseph,Fagan,Joseph Fagan,jfagan@nfmlending.com,937-974-9778,jpatrickfagan@gmail.com,937-974-9778,No
+"NFM Lending, LLC, Wolcott, CT Branch",,CT,2573302.0,131016,201077,Brian,Grabowski,Brian Grabowski,brian@bestwaymortgage.com,203-841-6443,,203-841-6443,Yes
+"NFM Lending, LLC, Wolcott, CT Branch",,CT,2573302.0,139265,1926274,Maria,Marin,Maria Marin,mmarin@prysma.com,203-743-9985,,203-743-9985,No
+"NFM Lending, LLC, Wolcott, CT Branch",,CT,2573302.0,138965,2018162,John,Desarro,John Desarro,,,,,No
+"NFM Lending, LLC, Wolcott, CT Branch",,CT,2573302.0,1280472,2639989,Javier,Perez,Javier Perez,,,,,No
+"NFM Lending, LLC, Wolcott, CT Branch",,CT,2573302.0,130677,1166397,Justin,Del Giudice,Justin Del Giudice,,,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,209328,337285,Bryant,Delgado,Bryant Delgado,bryant@mybploan.com,832-275-4694,,832-275-4694,Yes
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,336684,2099870,Andres,Groenow,Andres Groenow,agroenow@warensfinancial.com,281-220-7056,,832-920-1914,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,345014,2036630,Alondra,Flores Nolasco,Alondra Flores Nolasco,,,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,339631,1846001,Eliana,Rodriguez,Eliana Rodriguez,rodriguez@nfmlending.com,281-546-4520,desyreeli@gmail.com,916-420-8999,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,343724,2191177,Dancel,Zuniga Rodriguez,Dancel Zuniga Rodriguez,vzuniga@guildmortgage.net,936-232-2664,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,1131315,2257691,Stephanie,Gomez Osuna,Stephanie Gomez Osuna,,,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,915454,2051615,Gabriela,Hernandez,Gabriela Hernandez,,,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,208712,207621,John,Fox,John Fox,,,,281-451-8884,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,343687,2215527,Desiree,Chappell,Desiree Chappell,dchappell@revolutionmortgage.com,701-214-2059,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,1077843,2421608,Braian,Baich,Braian Baich,,713-397-7764,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,1284579,2549424,Paul,Olascoaga,Paul Olascoaga,,,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,1291112,1981094,Isamar,Castillo-Salande,Isamar Castillo-Salande,,,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,209105,2004892,Eli,Rivera,Eli Rivera,eli.rivera@td.com,844-852-0055,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,337283,2045893,Nalleli,Espinoza,Nalleli Espinoza,,832-713-5085,,,No
+"NFM Lending, LLC, Spring, TX Branch",,TX,2580147.0,337509,1834085,Ulises,Romero,Ulises Romero,,,,,No
+"NFM Lending, LLC, Steamboat Springs, CO Branch",,CO,2588905.0,123149,294506,Chris,Magnotta,Chris Magnotta,chrism@nfmlending.com,303-332-9911,,303-332-9911,Yes
+"NFM Lending, LLC, Steamboat Springs, CO Branch",,CO,2588905.0,1003671,2312904,Emily,Magruder,Emily Magruder,,303-226-5096,,,No
+"NFM Lending, LLC, Buford, GA Branch",,GA,2594126.0,125771,1884801,Jordan,Nutter,Jordan Nutter,jnutter@nfmlending.com,678-900-9272,,678-900-9272,Yes
+"NFM Lending, LLC, Buford, GA Branch",,GA,2594126.0,918515,2057789,Lindsay,Adair,Lindsay Adair,lindsay.adair@mottomortgage.com,706-202-5063,,706-202-5063,No
+"NFM Lending, LLC, Mount Pleasant, WI Branch",,WI,2595378.0,929984,2128369,Jacob,Cruse,Jacob Cruse,,615-448-7645,,,No
+"NFM Lending, LLC, Mount Pleasant, WI Branch",,WI,2595378.0,205792,1603385,James,Svehla,James Svehla,jim.svehla@drmconline.com,847-636-4328,,847-636-4328,Yes
+"NFM Lending, LLC, Mount Pleasant, WI Branch",,WI,2595378.0,1067987,2507937,Rebecca,Hallebach,Rebecca Hallebach,rebecca.hallebach@drmconline.com,847-244-9301,,,No
+"NFM Lending, LLC, Mount Pleasant, WI Branch",,WI,2595378.0,364583,2306456,Sergio,Herrera,Sergio Herrera,,414-614-0371,,,No
+"NFM Lending, LLC, Plano, TX Branch",,TX,2600674.0,34082,321657,Eduard,Kravchenko,Eduard Kravchenko,ekravchenko@elementhl.com,800-255-2792,eddie.kravchenko@gmail.com,214-336-1443,Yes
+"NFM Lending, LLC, Plano, TX Branch",,TX,2600674.0,34572,77115,Grant,Laclave,Grant Laclave,glaclave@elementhl.com,281-436-7451,gblsnl@sbcglobal.net,972-989-0925,No
+"NFM Lending, LLC, Plano, TX Branch",,TX,2600674.0,203162,2183988,Kirill,Kilesso,Kirill Kilesso,kkilesso@smprate.com,469-464-7355,,,No
+"NFM Lending, LLC, Plano, TX Branch",,TX,2600674.0,340493,1594626,Christopher,Hampton,Christopher Hampton,,,,,No
+"NFM Lending, LLC, Plano, TX Branch",,TX,2600674.0,712242,1546008,Amy,Alcala,Amy Alcala,,214-336-1443,,817-729-6826,No
+"NFM Lending, LLC, Scottsdale, AZ Branch",,AZ,2617704.0,382372,221731,Ryan,Sandell,Ryan Sandell,,,,480-510-2969,Yes
+"NFM Lending, LLC, Bridgeport, CT Branch",,CT,2619003.0,131016,201077,Brian,Grabowski,Brian Grabowski,brian@bestwaymortgage.com,203-841-6443,,203-841-6443,Yes
+"NFM Lending, LLC, Chicago, IL Branch",,IL,2664440.0,112526,1814273,Joseph,Rosen,Joseph Rosen,jrosen@revolutionmortgage.com,773-290-1099,,773-290-1099,Yes
+"NFM Lending, LLC, Chicago, IL Branch",,IL,2664440.0,404739,2449192,Christian,Reyes,Christian Reyes,,,,708-927-5718,No
+"NFM Lending, LLC, Chicago, IL Branch",,IL,2664440.0,1004854,2351013,Sara,Dym,Sara Dym,,224-616-9680,,224-616-9680,No
+"NFM Lending, LLC, Chicago, IL Branch",,IL,2664440.0,232742,1854638,Roberto,Cervantes,Roberto Cervantes,roberto@greatmortgagecompany.com,708-475-2798,,,No
+"NFM Lending, LLC, Chicago, IL Branch",,IL,2664440.0,196569,1685861,Andriy,Diatkovych,Andriy Diatkovych,adiatkovych@revolutionmortgage.com,773-981-2099,,773-981-2099,No
+"NFM Lending, LLC, Chicago, IL Branch",,IL,2664440.0,1298623,2678661,Matthew,Fine,Matthew Fine,,,,,No
+"NFM Lending, LLC, Houston, TX Branch",,TX,2678153.0,335209,1515123,Zachary,Wolf,Zachary Wolf,zwolf@revolutionmortgage.com,614-918-0055,,713-882-9007,No
+"NFM Lending, LLC, Houston, TX Branch",,TX,2678153.0,199413,1018528,Michael,Fuda,Michael Fuda,,,michael.v.fuda@gmail.com,281-615-2206,Yes
+"NFM Lending, LLC, Houston, TX Branch",,TX,2678153.0,336155,1567699,Da,Brooks,Da Brooks,,281-508-3107,,281-508-3107,No
+"NFM Lending, LLC, Houston, TX Branch",,TX,2678153.0,343372,1980365,Michael,Nenes,Michael Nenes,,832-553-6169,,,No
+"NFM Lending, LLC, Houston, TX Branch",,TX,2678153.0,336659,2065763,Tina,Murillo,Tina Murillo,tmurillo@highlandsmortgage.com,281-500-4292,,832-755-9989,No
+"NFM Lending, LLC, Houston, TX Branch",,TX,2678153.0,347317,1864427,Jessica,Lake,Jessica Lake,,713-213-2474,,,No
+"NFM Lending, LLC, Houston, TX Branch",,TX,2678153.0,336393,2086092,Dominic,Marconi,Dominic Marconi,dominic.marconi@apmortgage.com,281-650-1645,,916-960-1325,No
+"NFM Lending, LLC, Florence, SC Branch",,SC,2680833.0,285377,1752079,Marilyn,Camp,Marilyn Camp,mcamp@elementhl.com,843-731-8127,,843-731-8127,Yes
+"NFM Lending, LLC, Middletown, CT Branch",,CT,2681457.0,130658,70602,Jeneen,Hupfer,Jeneen Hupfer,jhupfer@nfmlending.com,203-623-4665,,203-623-4665,No
+"NFM Lending, LLC, Middletown, CT Branch",,CT,2681457.0,130973,121151,Kirk,Hagert,Kirk Hagert,,860-966-6056,,860-966-6056,Yes
+"NFM Lending, LLC, Middletown, CT Branch",,CT,2681457.0,255045,1582457,Anthony,Andrade,Anthony Andrade,,,,774-329-4223,No
+"NFM Lending, LLC, Coeur D'Alene, ID Branch",,ID,2689377.0,176561,1589041,Richard,Gega,Richard Gega,rgega@revolutionmortgage.com,925-852-1462,,925-852-1462,No
+"NFM Lending, LLC, Coeur D'Alene, ID Branch",,ID,2689377.0,1165861,2590122,James,Lanier,James Lanier,,,,,No
+"NFM Lending, LLC, Coeur D'Alene, ID Branch",,ID,2689377.0,171550,1588538,Austyn,Shuman,Austyn Shuman,ashuman@revolutionmortgage.com,208-712-8230,,208-818-0195,Yes
+"NFM Lending, LLC, Coeur D'Alene, ID Branch",,ID,2689377.0,1092376,278510,Kevin,Bricker,Kevin Bricker,,614-701-0095,,,No
+"NFM Lending, LLC, Fayetteville, NC Branch",,NC,2691231.0,279893,115234,Janiece,Brewer,Janiece Brewer,janieceb@fairwaymc.com,910-489-3342,,910-489-3342,Yes
+"NFM Lending, LLC, Fayetteville, NC Branch",,NC,2691231.0,1078732,2479989,Jeremy,Casiano,Jeremy Casiano,jcasiano@fhmtg.com,910-964-1255,,910-964-1255,No
+"NFM Lending, LLC, Fayetteville, NC Branch",,NC,2691231.0,193859,164021,Rebecca,Shearer,Rebecca Shearer,rebecca.shearer@fairwaymc.com,910-639-3262,,910-639-3262,No
+"NFM Lending, LLC, Fayetteville, NC Branch",,NC,2691231.0,1305195,2686600,Tamara,Franklin,Tamara Franklin,,,,,No
+"NFM Lending, LLC, Redding, CA Branch",,CA,2692980.0,53211,1438949,Sara,Klusmeyer,Sara Klusmeyer,sklusmeyer@nfmlending.com,,,253-202-7376,Yes
+"NFM Lending, LLC, Redding, CA Branch",,CA,2692980.0,790665,1752473,Amanda,Carrick,Amanda Carrick,acarrick@nfmlending.com,,,,No
+"NFM Lending, LLC, Redding, CA Branch",,CA,2692980.0,106666,1881028,Stephen,Groff,Stephen Groff,,,,,No
+"NFM Lending, LLC, Redding, CA Branch",,CA,2692980.0,1194415,2162823,Christopher,Tippens,Christopher Tippens,,,,,No
+"NFM Lending, LLC, Monroe, LA Branch",,LA,2696388.0,250647,1167647,Robin,Warner,Robin Warner,,877-773-1226,,318-366-4458,Yes
+"NFM Lending, LLC, Katy, TX Branch",,TX,2698966.0,335286,1394557,Cesar,Higuera,Cesar Higuera,,832-889-7867,,,Yes
+"NFM Lending, LLC, Katy, TX Branch",,TX,2698966.0,347205,1708968,Carolyn,Higuera,Carolyn Higuera,,866-912-4800,,832-889-7868,No
+"NFM Lending, LLC, Racine, WI Branch",,WI,2707755.0,205792,1603385,James,Svehla,James Svehla,jim.svehla@drmconline.com,847-636-4328,,847-636-4328,Yes
+"NFM Lending, LLC, Racine, WI Branch",,WI,2707755.0,1067987,2507937,Rebecca,Hallebach,Rebecca Hallebach,rebecca.hallebach@drmconline.com,847-244-9301,,,No
+,,MD,,46327,335381,Kevin,Rudrud,Kevin Rudrud,kevin@nfmlending.com,949-554-2616,kevinrudrud@gmail.com,808-800-4167,Yes
+,,MD,,36463,115385,Bryan,Harrison,Bryan Harrison,bharrison@nfmlending.com,410-387-4216,,443-244-3153,No
+,,MD,,212320,1561889,Anthony,Cellini,Anthony Cellini,acellini@nfmlending.com,434-466-1180,,434-466-1180,Yes
+,,MD,,35707,213769,Heidi,Gage,Heidi Gage,hgage@nfmlending.com,410-984-9517,,410-984-9517,No
+,,MD,,105805,5692,Ryan,George,Ryan George,rgeorge@nfmlending.com,443-629-9255,,,No
+,,MD,,148034,369398,Kenneth,Zorovich,Kenneth Zorovich,kzorovich@nfmlending.com,954-602-9880,,305-360-2196,No
+,,MD,,150934,1005793,Sean,Donovan,Sean Donovan,sdonovan@nfmlending.com,610-842-3303,,610-842-3303,No
+,,MD,,144646,145055,Mary,Levinson,Mary Levinson,mlevinson@nfmlending.com,443-527-3452,,443-527-3452,No
+,,MD,,226081,1006771,Jamaica,Canas,Jamaica Canas,jcanas@nfmlending.com,808-443-1668,,,Yes
+,,MD,,17147,13938,Jason,Mclaughlin,Jason Mclaughlin,jasonm@nfmlending.com,410-977-4445,,410-977-4445,No
+,,MD,,12190,1604812,Anthony,Pacifico,Anthony Pacifico,apacifico@nfmlending.com,888-233-0092,,856-649-4645,No
+,,MD,,43882,1586800,Alena,Griffey,Alena Griffey,agriffey@nfmlending.com,808-936-1571,,808-936-1571,No
+,,MD,,212528,2064405,Benjamin,Heilberg,Benjamin Heilberg,bheilberg@nfmlending.com,434-962-8537,,,No
+,,MD,,47013,109839,Thomas,Bowen,Thomas Bowen,tbowen@nfmlending.com,215-964-7340,,215-964-7340,No
+,,MD,,7586,34928,Gregory,Bork,Gregory Bork,gbork@nfmlending.com,410-474-1427,,410-474-1427,No
+,,MD,,53211,1438949,Sara,Klusmeyer,Sara Klusmeyer,sklusmeyer@nfmlending.com,,,253-202-7376,Yes
+,,MD,,148226,129410,Elizabeth,Hoang,Elizabeth Hoang,ehoang@nfmlending.com,610-840-0350,elizabethmhoang@gmail.com,215-460-1972,No
+,,MD,,122952,1415709,Alix,Clowser,Alix Clowser,aclowser@nfmlending.com,571-774-5404,,302-824-4745,No
+,,MD,,22447,36990,Jeffrey,Corsiatto,Jeffrey Corsiatto,jcorsiatto@nfmlending.com,301-606-3297,,301-606-3297,No
+,,MD,,122465,459324,Mary,Greenwood,Mary Greenwood,mgreenwood@nfmlending.com,417-540-4858,,719-649-6656,No
+,,MD,,186732,1149460,Daniel,Mack,Daniel Mack,dmack@nfmlending.com,732-877-4626,,,No
+,,MD,,137187,235731,Charles,Wilson,Charles Wilson,cwilson@nfmlending.com,571-250-0113,,410-963-5992,Yes
+,,MD,,143755,174898,Bruce,Dorsey,Bruce Dorsey,bdorsey@nfmlending.com,410-387-4211,,443-722-1652,No
+,,MD,,144258,1403192,Aimee,Minnis,Aimee Minnis,aimee.minnis@arklatexfinancial.net,443-745-5094,aimeecdixon@gmail.com,443-745-5094,No
+,,MD,,145105,190335,Marcus,Nole,Marcus Nole,mnole@nfmlending.com,410-387-4223,,443-676-6328,No
+,,MD,,144909,195805,Thurman,Killen,Thurman Killen,thurmank@nfmlending.com,410-808-8046,,410-808-8046,No
+,,MD,,206838,2064776,Tyler,Rood,Tyler Rood,trood@nfmlending.com,804-617-6830,,,No
+,,MD,,353622,2227755,Paul,Pritchett,Paul Pritchett,mpritchett@nfmlending.com,804-337-0300,,,No
+,,MD,,121020,1375143,James,Bell,James Bell,jbell@nfmlending.com,445-275-7770,,443-766-9247,No
+,,MD,,260659,208472,Dane,Taylorson,Dane Taylorson,dtaylorson@contourmtg.com,443-414-3695,,443-414-3695,No
+,,MD,,98008,970103,Nicholas,Mckinney,Nicholas Mckinney,nmckinney@nfmlending.com,469-923-6969,,,No
+,,MD,,372619,14702,Ivone,Schott,Ivone Schott,ischott@nfmlending.com,,,,Yes
+,,MD,,211492,1907313,Harrison,Wesson,Harrison Wesson,hwesson@nfmlending.com,434-305-2942,,434-305-2942,No
+,,MD,,51715,646417,Tiffany,Arnold,Tiffany Arnold,tiffany@nfmlending.com,804-305-6004,,804-305-6004,No
+,,MD,,35972,1849197,Kaylin,Corsiatto,Kaylin Corsiatto,kcorsiatto@nfmlending.com,240-818-3925,,240-818-3925,No
+,,MD,,20800,788053,Carl,Anderson,Carl Anderson,canderson@nfmlending.com,888-995-1256,c.ander1@hotmail.com,,No
+,,MD,,97585,1422503,Gavin,Benson,Gavin Benson,gbenson@nfmlending.com,443-504-5669,,,No
+,,MD,,122092,1954455,Eric,Bewley,Eric Bewley,ebewley@nfmlending.com,,mrpargolf72@aol.com,,No
+,,MD,,130973,121151,Kirk,Hagert,Kirk Hagert,,860-966-6056,,860-966-6056,Yes
+,,MD,,259756,5590,Headley,Rose,Headley Rose,hrose@nfmlending.com,631-760-1809,,443-812-0159,No
+,,MD,,219115,214140,Arrita,Reece Brown,Arrita Reece Brown,areece@elementhl.com,404-454-9459,,404-454-9459,No
+,,MD,,208808,1648177,Lucas,Seeger,Lucas Seeger,,443-604-4032,lseeger1@gmail.com,,No
+,,MD,,1078423,2486625,Dominique,Maier,Dominique Maier,dmaier@nfmlending.com,443-366-8047,,,No
+,,MD,,111952,917155,David,Ferrell,David Ferrell,dferrell@nfmlending.com,888-214-7083,,443-517-9546,No
+,,MD,,1103811,1566767,Jarrett,Smith,Jarrett Smith,,443-741-8335,jarrett.smith27@gmail.com,,No
+,,MD,,58937,1237897,Edgard,Aguirre  Arroliga,Edgard Aguirre  Arroliga,,517-599-2747,,480-535-9691,No
+,,MD,,13669,829103,Nicholas,Outten,Nicholas Outten,noutten@nfmlending.com,443-414-0561,,443-414-0561,No
+,,MD,,19459,1788975,Keelin,Mchale,Keelin Mchale,kmchale@nfmlending.com,443-845-7780,,443-845-7780,No
+,,MD,,88012,1561950,William,Vandyke,William Vandyke,,888-636-7573,,,No
+,,MD,,131007,1909065,Rachel,Holman,Rachel Holman,,443-827-2173,,,No
+,,MD,,129699,2141261,Nicholas,Sieminski,Nicholas Sieminski,nsieminski@nfmlending.com,410-913-2097,,,No
+,,MD,,9972,1682179,Isaac,Weinstein,Isaac Weinstein,iweinstein@nfmlending.com,443-677-1907,,443-677-1907,No
+,,MD,,39209,161585,Andrea,Pace,Andrea Pace,,,,,No
+,,MD,,45482,1991533,Alexander,Mckenna,Alexander Mckenna,amckenna@nfmlending.com,703-595-8485,,703-595-8485,No
+,,MD,,1171688,328103,Jessica,Charters,Jessica Charters,,,,,No
+,,MD,,1301815,2673520,Jonathan,Jaeger,Jonathan Jaeger,,,,,No
+,,MD,,1303728,2686054,Michael,Gardner,Michael Gardner,,,,,No
+,,MD,,387334,328039,Shaun,Hires,Shaun Hires,,,,,Yes
+,,MD,,426275,449993,Traci,Day,Traci Day,,970-734-4401,,,No
+,,MD,,528602,1175908,Lisa,Speer,Lisa Speer,lspeer@nfmlending.com,503-546-8480,,503-546-8480,No
+,,MD,,606203,1128916,Shannon,Atene,Shannon Atene,,,,,No
+,,MD,,864816,1905034,Caitlin,Pedigo,Caitlin Pedigo,,,,,No
+,,MD,,263512,1900015,Darrell,Foote,Darrell Foote,,,,,No
+,,MD,,255045,1582457,Anthony,Andrade,Anthony Andrade,,,,774-329-4223,No
+,,MD,,258846,1752274,Carlos,Credle,Carlos Credle,,240-486-3643,carlos_credle@yahoo.com,240-486-3643,No
+,,MD,,152246,2133214,Eliza,Middleton,Eliza Middleton,emiddleton@nfmlending.com,410-804-0869,,,No
+,,MD,,171391,1701021,Kyle,Seagraves,Kyle Seagraves,,937-241-7458,,,No
+,,MD,,185073,183586,Dimitrios,Viennas,Dimitrios Viennas,jviennas@nfmlending.com,443-690-3290,,,No
